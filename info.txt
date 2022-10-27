@@ -1,0 +1,2 @@
+//to run a node js file
+node filename;
