@@ -1,2 +1,5 @@
 //to run a node js file
 node filename;
+
+//for making your own package 
+npm init
